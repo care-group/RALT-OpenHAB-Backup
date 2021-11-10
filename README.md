@@ -6,8 +6,8 @@ If you make plan on making major changes to the local OpenHAB installation, plea
 
 Use the following command to create a new backup:
 
-'''
+```
 sudo $OPENHAB_RUNTIME/bin/backup
-'''
+```
 
 The script will indicate where the new backup zip folder has been placed.
